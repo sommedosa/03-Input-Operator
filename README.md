@@ -72,27 +72,10 @@ d. keyboard()
 2. In Python, the first character of a variable name cannot be a number.
 3. If you print a variable that has not been assigned a value, the number 0 will be displayed.
 4. In a math expression, multiplication and division take place before addition and subtraction.
-5. 9W <> "9w"
-6. 'Harry' > 'Mine'
-7. '1' < 'one'
-8. "Duck" < "Duck" + "Duck"
-9. "ty" in "Python"
 
-**True or False**
-Assume the value of a is 1 and the value of b is 1.5, and determine whether the condition evaluates to True or False.
-1. a ** (5 – 2) > 7
-2. 3e-2 < .01 * a
-3. (a < b) or (b < a)
-4. (a * a < b) or not(a * a < a)
-5. not((a < b) and (a < (b + a)))
-6. not(a < b) or not (a < (b + a))
-7. ((a == b) and (a * a < b * b)) or ((b < a) and (2 * a < b))
-8. ((a == b) or not (b < a)) and ((a < b) or (b == a + 1)
-9. 3 * a == 2 * b 10. ((5 – a) * b) < 7
-10. b <= 3
-11. a ** b == b ** a
+
 
 **Short Answer**
 1. Does the condition "Hello " == "Hello" evaluate to True or False?
-2. A common error is to replace the condition (not (n 6 m)) with the condition (n > m). The correct replacement is (n >= m).
+2. A common error is to replace the condition (not (n < m)) with the condition (n > m). The correct replacement is (n >= m).
 3. Explain why (27 > 9) evaluates to True, whereas (“27” > “9”) evaluates to False.
