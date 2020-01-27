@@ -2,70 +2,71 @@
 
 
 
-1. A __________ error does not prevent the program from running, but causes it to produce incorrect results.
-a. syntax
-b. hardware
-c. logic
-d. fatal
+1. A __________ error does not prevent the program from running, but causes it to produce incorrect results. </br>
+a. syntax </br>
+b. hardware </br>
+c. logic </br>
+d. fatal </br>
 
-2. A(n) __________ is a set of well-defined logical steps that must be taken to perform a task. a. logarithm
-b. plan of action
-c. logic schedule
-d. algorithm
+2. A(n) __________ is a set of well-defined logical steps that must be taken to perform a task.  </br>
+a. logarithm </br>
+b. plan of action </br>
+c. logic schedule </br>
+d. algorithm </br>
 
-3. An informal language that has no syntax rules and is not meant to be compiled or executed is called __________.
-a. faux code
-b. pseudocode
-c. Python
-d. a flowchart
+3. An informal language that has no syntax rules and is not meant to be compiled or executed is called __________. </br>
+a. faux code </br>
+b. pseudocode </br>
+c. Python </br>
+d. a flowchart </br>
 
-4. A __________ is a diagram that graphically depicts the steps that take place in a program.
-a. flowchart
-b. step chart
-c. code graph
-d. program graph
+4. A __________ is a diagram that graphically depicts the steps that take place in a program. </br>
+a. flowchart </br>
+b. step chart </br>
+c. code graph </br>
+d. program graph </br>
 
-5. A __________ is a sequence of characters.
-a. char sequence
-b. character collection
-c. string
-d. text block
+5. A __________ is a sequence of characters. </br>
+a. char sequence </br>
+b. character collection </br> 
+c. string </br>
+d. text block </br>
 
-6. Short notes placed in different parts of a program explaining how those parts of the program work are called __________.
-a. comments
-b. reference manuals
-c. tutorials
-d. external documentation
+6. Short notes placed in different parts of a program explaining how those parts of the program work are called __________. </br>
+a. comments </br>
+b. reference manuals </br>
+c. tutorials </br>
+d. external documentation </br>
 
-7. A string literal in Python must be enclosed in __________.
-a. parentheses.
-b. single-quotes.
-c. double-quotes.
-d. either single-quotes or double-quotes.
+7. A string literal in Python must be enclosed in __________. </br>
+a. parentheses. </br>
+b. single-quotes. </br>
+c. double-quotes. </br>
+d. either single-quotes or double-quotes. </br>
 
-8. This symbol marks the beginning of a comment in Python.
-a. &
-b. *
-c. **
-d. #
+8. This symbol marks the beginning of a comment in Python. </br>
+a. & </br>
+b. * </br>
+c. ** </br>
+d. # </br>
 
-9. Which of the following statements will cause an error?
-a. x = 17
-b. 17 = x
-c. x = 99999
-d. x = '17'
+9. Which of the following statements will cause an error? </br>
+a. x = 17 </br>
+b. 17 = x </br>
+c. x = 99999 </br>
+d. x = '17' </br>
 
-10. In the expression 12 + 7, the values on the right and left of the + symbol are called __________.
-a. operands
-b. operators
-c. arguments
-d. math expressions
+10. In the expression 12 + 7, the values on the right and left of the + symbol are called __________. </br>
+a. operands </br>
+b. operators </br>
+c. arguments </br>
+d. math expressions </br>
 
-11. Which built-in function can be used to read input that has been typed on the keyboard?
-a. input()
-b. get_input()
-c. read_input()
-d. keyboard()
+11. Which built-in function can be used to read input that has been typed on the keyboard? </br>
+a. input() </br>
+b. get_input() </br>
+c. read_input() </br>
+d. keyboard() </br>
 
 **True or False**
 1. Variable names can have spaces in them.
