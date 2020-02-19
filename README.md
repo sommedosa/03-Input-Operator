@@ -1,5 +1,45 @@
 # Input, Operator
 
+## Built-in input function reads input from keyboard
+* Returns the data as a string
+* Format: variable = input(prompt)
+
+## Built-in functions convert between data types
+* int(item) converts item to an int
+* float(item) converts item to a float
+* Nested function call: general format: function1(function2(argument))
+  - value returned by function2 is passed to function1
+* Type conversion only works if item is valid numeric value, otherwise, throws exception
+
+## Performing Calculations
+* Math expression: performs calculation and gives a value
+* Math operator: tool for performing calculation
+* Operands: values surrounding operator
+  - Variables can be used as operands
+* Resulting value typically assigned to variable
+
+## Operator  Precedence and Grouping with Parentheses
+* Python operator precedence:
+  1. Operations enclosed in parentheses
+     - Forces operations to be performed before others
+  2. Exponentiation (**)
+     - Exponent operator (**): Raises a number to a power
+  3. Multiplication (*), division (/ and //), and remainder (%)
+     - / operator performs floating point division
+     - // operator performs integer division
+     - % Performs division and returns the remainder
+  4. Addition (+) and subtraction (-)
+* Higher precedence performed first
+  - Same precedence operators execute from left to right
+
+## Mixed-Type Expressions and Data Type Conversion
+* Two int values: result is an int
+* Two float values: result is a float
+* int and float: int temporarily converted to float, result of the operation is a float
+
+## Breaking Long Statements into Multiple Lines
+* Multiline continuation character (\): Allows to break a statement into multiple lines
+* Any part of a statement that is enclosed in parentheses can be broken without the line continuation character
 
 --------------------
 
